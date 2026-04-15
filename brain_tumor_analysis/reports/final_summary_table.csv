@@ -1,0 +1,3 @@
+Model,Accuracy,F1 Score,Improvement
+Task 2 Best (Random Forest),0.9905,0.9893,Baseline
+Task 4 Best (Random Forest),0.9784,0.9756,-1.2%
