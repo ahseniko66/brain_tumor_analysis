@@ -37,9 +37,11 @@ To reproduce the results, ensure you have Python 3.8+ installed and follow these
 
         notebooks/T4_Ensemble.ipynb: Final ensemble integration and project synthesis.
 
-4. Final Model Results
-Task	Model	Accuracy	Precision	Recall	F1-Score
-Task 2	Logistic Regression	84.7%	0.83	0.82	0.83
-Task 2	Random Forest (Best)	99.0%	0.99	0.98	0.99
-Task 4	Ensemble (RF + Cluster)	97.8%	0.98	0.97	0.98
+### **4. Final Model Results**
+
+| Task | Model | Accuracy | Precision | Recall | F1-Score |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| **Task 2** | Logistic Regression | 84.7% | 0.83 | 0.82 | 0.83 |
+| **Task 2** | **Random Forest (Best)** | **99.0%** | **0.99** | **0.98** | **0.99** |
+| **Task 4** | Ensemble (RF + Cluster) | 97.8% | 0.98 | 0.97 | 0.98 |
 
