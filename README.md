@@ -46,5 +46,5 @@ To reproduce the results, ensure you have Python 3.8+ installed and follow these
 | **Task 4** | Ensemble (RF + Cluster) | 97.8% | 0.98 | 0.97 | 0.98 |
 
 ### **5. Key Visualization**
-![Entropy vs Class](reports/entropy_boxplot.png)
+![Entropy vs Class](reports/kmeans_elbow_analysis.png)
 *Figure 1: Distribution of Entropy across classes. Tumorous scans often exhibit higher complexity and entropy compared to healthy brain tissue.*
